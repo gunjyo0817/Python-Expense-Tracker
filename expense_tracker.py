@@ -1,5 +1,4 @@
 # /usr/bin/env python3
-# 111062116_許伊辰
 
 import os,sys
 
